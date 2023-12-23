@@ -37,5 +37,6 @@
 <img align="left" width="25" height="25" alt="jira" src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png">
 <img align="left" width="25" height="25" alt="devops" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png">
 <img align="left" width="16" height="25" alt="figma" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png">
+<img align="left" width="80" height="25" alt="elgato" src="https://cdn.worldvectorlogo.com/logos/elgato-gaming-1.svg">
 </br>
 </br>
