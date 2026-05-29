@@ -23,7 +23,7 @@
 <img align="left" width="25" height="25" alt="javascript" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
 <img align="left" width="25" height="25" alt="typescript" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png">
 <img align="left" width="25" height="23" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png">
-<img align="left" width="25" height="25" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img align="left" width="25" height="25" alt="nextjs" src="./nextjs.svg">
 <img align="left" width="25" height="25" alt="vite" src="https://vitejs.dev/logo-with-shadow.png">
 <img align="left" width="25" height="25" alt="material-ui" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
 <img align="left" width="35" height="25" alt="tailwind" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
