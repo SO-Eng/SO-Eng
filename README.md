@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![img.png](img.png)![Header](./github-header-image.png)
 
 ## Senior full-stack developer building AI automation & SaaS for the German Mittelstand — with React, TypeScript, NestJS & Supabase.
 
